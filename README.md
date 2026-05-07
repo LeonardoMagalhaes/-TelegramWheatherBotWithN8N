@@ -67,7 +67,7 @@ Formatar Entrada ─────► Validar Resposta
 - **Função:** Consulta a API do OpenWeatherMap.
 - **Endpoint:** `https://api.openweathermap.org/data/2.5/weather`
 - **Parâmetros:**
-  - `q` — cidade formatada (ex.: `são paulo,BR`)
+  - `queue` — cidade formatada (ex.: `são paulo,BR`)
   - `units` — `metric` (Celsius)
   - `lang` — `pt_br` (respostas em português)
   - `appid` — chave da API (configurar via credencial ou variável de ambiente)
